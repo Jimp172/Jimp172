@@ -1,16 +1,17 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hola 👋, Soy Jim A. Mayhuire Apayco</h1>
 <h3 align="center">Desarrollador frontend - Backend</h3>
-<img img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/928b67167291489.64264940ecfd8.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimp172&label=Profile%20views&color=0e75b6&style=flat" alt="jimp172" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimp172" alt="jimp172" /></a> </p>
 
-- 🔭 I’m currently working on [PsicisJana](https://github.com/Jimp172/tesispsicisjana.git)
 
-- 📝 I regularly write articles on [https://www.canva.com/design/DAF21o-QlQU/FZI7puK-Rc0Vt33FZsatrg/edit](https://www.canva.com/design/DAF21o-QlQU/FZI7puK-Rc0Vt33FZsatrg/edit)
+- 🔭 Actualmente estoy trabajando en [PsicisJana](https://github.com/Jimp172/tesispsicisjana.git)
 
-- 📫 How to reach me **jim.mayhuire@tecsup.edu.pe**
+- 📝 Buscame en : [https://www.canva.com/design/DAF21o-QlQU/FZI7puK-Rc0Vt33FZsatrg/edit](https://www.canva.com/design/DAF21o-QlQU/FZI7puK-Rc0Vt33FZsatrg/edit)
+
+- 📫 Como llegar a mi **jim.mayhuire@tecsup.edu.pe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
